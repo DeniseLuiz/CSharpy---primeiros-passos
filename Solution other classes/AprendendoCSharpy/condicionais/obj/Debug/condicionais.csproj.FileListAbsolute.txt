@@ -1,0 +1,7 @@
+C:\Users\Denise\Documents\GitHub\CSharpy---primeiros-passos\Solution other classes\AprendendoCSharpy\condicionais\bin\Debug\condicionais.exe.config
+C:\Users\Denise\Documents\GitHub\CSharpy---primeiros-passos\Solution other classes\AprendendoCSharpy\condicionais\bin\Debug\condicionais.exe
+C:\Users\Denise\Documents\GitHub\CSharpy---primeiros-passos\Solution other classes\AprendendoCSharpy\condicionais\bin\Debug\condicionais.pdb
+C:\Users\Denise\Documents\GitHub\CSharpy---primeiros-passos\Solution other classes\AprendendoCSharpy\condicionais\obj\Debug\condicionais.csprojAssemblyReference.cache
+C:\Users\Denise\Documents\GitHub\CSharpy---primeiros-passos\Solution other classes\AprendendoCSharpy\condicionais\obj\Debug\condicionais.csproj.CoreCompileInputs.cache
+C:\Users\Denise\Documents\GitHub\CSharpy---primeiros-passos\Solution other classes\AprendendoCSharpy\condicionais\obj\Debug\condicionais.exe
+C:\Users\Denise\Documents\GitHub\CSharpy---primeiros-passos\Solution other classes\AprendendoCSharpy\condicionais\obj\Debug\condicionais.pdb

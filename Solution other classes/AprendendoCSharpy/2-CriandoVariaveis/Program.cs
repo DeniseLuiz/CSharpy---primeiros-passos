@@ -63,6 +63,11 @@ namespace _2_CriandoVariaveis
             Console.WriteLine(tituloComQuebra);
             Console.ReadLine();
 
+            //DECLARANDO VARIAVEIS BOOLEAN ()
+            int quantidadeDePessoas = 2;
+            bool acompanhado = quantidadeDePessoas >= 2;
+            Console.WriteLine(acompanhado); //true
+
             //CONVERSÃO DE VARIAVEIS 
             double salario = 1200.50;
             int salarioEmInteiro;
