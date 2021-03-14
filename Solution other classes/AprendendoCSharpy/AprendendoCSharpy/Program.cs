@@ -10,7 +10,7 @@ namespace AprendendoCSharpy
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Olá, mundo! Projeto no Visual Studio");
+            Console.WriteLine("Olá, mundo!");
             Console.ReadLine();
         }
     }
