@@ -1,0 +1,7 @@
+C:\Users\Denise\Documents\GitHub\CSharpy---primeiros-passos\Solution other classes\AprendendoCSharpy\LacosDeRepeticao\bin\Debug\LacosDeRepeticao.exe.config
+C:\Users\Denise\Documents\GitHub\CSharpy---primeiros-passos\Solution other classes\AprendendoCSharpy\LacosDeRepeticao\bin\Debug\LacosDeRepeticao.exe
+C:\Users\Denise\Documents\GitHub\CSharpy---primeiros-passos\Solution other classes\AprendendoCSharpy\LacosDeRepeticao\bin\Debug\LacosDeRepeticao.pdb
+C:\Users\Denise\Documents\GitHub\CSharpy---primeiros-passos\Solution other classes\AprendendoCSharpy\LacosDeRepeticao\obj\Debug\4-LacosDeRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\Denise\Documents\GitHub\CSharpy---primeiros-passos\Solution other classes\AprendendoCSharpy\LacosDeRepeticao\obj\Debug\LacosDeRepeticao.exe
+C:\Users\Denise\Documents\GitHub\CSharpy---primeiros-passos\Solution other classes\AprendendoCSharpy\LacosDeRepeticao\obj\Debug\LacosDeRepeticao.pdb
+C:\Users\Denise\Documents\GitHub\CSharpy---primeiros-passos\Solution other classes\AprendendoCSharpy\LacosDeRepeticao\obj\Debug\4-LacosDeRepeticao.csprojAssemblyReference.cache
