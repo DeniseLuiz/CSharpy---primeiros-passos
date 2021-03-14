@@ -1,0 +1,7 @@
+C:\Users\Denise\Documents\GitHub\CSharpy---primeiros-passos\Aula 1 - first program notepad\AprendendoCSharpy\AprendendoCSharpy\bin\Debug\AprendendoCSharpy.exe.config
+C:\Users\Denise\Documents\GitHub\CSharpy---primeiros-passos\Aula 1 - first program notepad\AprendendoCSharpy\AprendendoCSharpy\bin\Debug\AprendendoCSharpy.exe
+C:\Users\Denise\Documents\GitHub\CSharpy---primeiros-passos\Aula 1 - first program notepad\AprendendoCSharpy\AprendendoCSharpy\bin\Debug\AprendendoCSharpy.pdb
+C:\Users\Denise\Documents\GitHub\CSharpy---primeiros-passos\Aula 1 - first program notepad\AprendendoCSharpy\AprendendoCSharpy\obj\Debug\AprendendoCSharpy.csprojAssemblyReference.cache
+C:\Users\Denise\Documents\GitHub\CSharpy---primeiros-passos\Aula 1 - first program notepad\AprendendoCSharpy\AprendendoCSharpy\obj\Debug\AprendendoCSharpy.csproj.CoreCompileInputs.cache
+C:\Users\Denise\Documents\GitHub\CSharpy---primeiros-passos\Aula 1 - first program notepad\AprendendoCSharpy\AprendendoCSharpy\obj\Debug\AprendendoCSharpy.exe
+C:\Users\Denise\Documents\GitHub\CSharpy---primeiros-passos\Aula 1 - first program notepad\AprendendoCSharpy\AprendendoCSharpy\obj\Debug\AprendendoCSharpy.pdb
